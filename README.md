@@ -11,11 +11,6 @@ This a Complete Series of Laravel and Angular Project on API Authentication with
 7. Reset Password
 8. Auth Gurd in angular routes
 
-## Full Playlist- 
-https://www.youtube.com/playlist?list=PL397yT3D1n9ipqiMZug6mdPIczG2fmfjK 
-
-## Website
-https://myiotlab.in
 
 
 ## Installation
